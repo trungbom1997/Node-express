@@ -27,3 +27,4 @@ app.use("/",homePage);
 
 var dashboard = require("./router/back-end/dashboard")
 app.use("/admin",dashboard);
+
